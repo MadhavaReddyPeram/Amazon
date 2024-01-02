@@ -1,0 +1,21 @@
+This is Login page
+
+[200~ CreateLoginForm()  
+    {     
+          
+        //create label for username   
+        userLabel = new JLabel();  
+        userLabel.setText("Username");      //set label value for textField1  
+          
+        //create text field to get username from the user  
+        textField1 = new JTextField(15);    //set length of the text  
+  
+        //create label for password  
+        passLabel = new JLabel();  
+        passLabel.setText("Password");      //set label value for textField2  
+          
+        //create text field to get password from the user  
+        textField2 = new JPasswordField(15);    //set length for the password  
+        
+    }  
+

@@ -1,0 +1,3 @@
+This is Registration page
+  String userValue = textField1.getText();        //get user entered username from the textField1  
+        String passValue = textField2.getText();        //get user entered pasword from the textField2  
